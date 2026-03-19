@@ -1,4 +1,4 @@
-ContactsServer in OCaml functional language
+Contacts Server in OCaml functional language
 ==============
 
 ContactsServer is a contacts application written in the OCaml 
